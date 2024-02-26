@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Elif</h1>
 <h3 align="center">.NET Developer Candidate: A developer with strong C# skills, ASP.NET and MVC experience, who can create innovative solutions and work effectively on complex projects.</h3>
 
-- 🔭 I’m currently working on **car rental application**
+- 🔭 I’m currently working on **Food Ordering Application**
 
-- 🌱 I’m currently learning **Cqrs Dessign Pattern**
+- 🌱 I’m currently learning **SignalR & QR Code Usage**
 
-- 💬 Ask me about **C#, .Net, MVC, API**
+- 💬 Ask me about **C#, .Net, MVC, API, CQRS Design Pattern, MediatR, Repository Design Pattern, AutoMapper**
 
 - 📫 How to reach me **camlielif@gmail.com**
 
